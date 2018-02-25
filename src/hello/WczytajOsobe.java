@@ -8,6 +8,11 @@ public class WczytajOsobe {
    	 String imie = JOptionPane.showInputDialog("Jak masz na imię?");
    	 String nazwisko = JOptionPane.showInputDialog("Jak masz na nazwisko?");
    	 return new Osoba(imie, nazwisko);
+   	 
+   
+   	 
+   	  
+   	 
     }
 
 }
