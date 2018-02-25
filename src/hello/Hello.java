@@ -10,7 +10,7 @@ public class Hello {
 	}
 
 	Osoba osoba = new Osoba ("Ala", "Kowalska");
-	
+		
 	
 	
 }
